@@ -1,0 +1,17 @@
+﻿.footerlinks{
+    color :crimson;
+    text-decoration :none !important;
+}
+
+.footerlinks.hover{
+    color: aquamarine;
+}
+
+#footer1
+{
+    background : #667c06;
+}
+
+#footer2 {
+    background: #111462;
+}
